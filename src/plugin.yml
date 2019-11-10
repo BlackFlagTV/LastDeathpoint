@@ -1,0 +1,10 @@
+name: Last Deathpoint
+version: 1.0
+author: PascalPVPMaster
+
+main: de.pvpmaster.lastdeathpoint.Main
+
+commands:
+  lastdeath:
+    aliases:
+      - ld
